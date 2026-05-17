@@ -39,7 +39,11 @@ The game unfolds in four story stages:
 
 ## 📸 Screenshots
 
-<img width="1666" height="847" alt="image" src="https://github.com/user-attachments/assets/9625cf17-1869-42bc-b91c-1ef48c53c369" />
+<img width="1659" height="814" alt="image" src="https://github.com/user-attachments/assets/cd2071e2-93c6-4e16-b47d-0a4ba74743fd" />
+<img width="1657" height="825" alt="image" src="https://github.com/user-attachments/assets/de59c024-5935-4ea4-84db-e0aeedeb5fbd" />
+
+<img width="1650" height="820" alt="image" src="https://github.com/user-attachments/assets/3f928250-39f1-4f4e-bc3d-bad3e5157806" />
+<img width="1662" height="824" alt="image" src="https://github.com/user-attachments/assets/aa4fd81b-4bbd-4e84-9ed3-aea3293cc25b" />
 
 
 ---
