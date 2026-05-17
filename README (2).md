@@ -39,7 +39,8 @@ The game unfolds in four story stages:
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after running the game)*
+<img width="1666" height="847" alt="image" src="https://github.com/user-attachments/assets/9625cf17-1869-42bc-b91c-1ef48c53c369" />
+
 
 ---
 
